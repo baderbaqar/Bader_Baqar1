@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\Bader_Baqar1\Bader_Baqar1\bin\Debug\Bader_Baqar1.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Bader_Baqar1\Bader_Baqar1\bin\Debug\Bader_Baqar1.exe
+c:\users\dell\documents\visual studio 2015\Projects\Bader_Baqar1\Bader_Baqar1\bin\Debug\Bader_Baqar1.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Bader_Baqar1\Bader_Baqar1\obj\Debug\Bader_Baqar1.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Bader_Baqar1\Bader_Baqar1\obj\Debug\Bader_Baqar1.exe
+c:\users\dell\documents\visual studio 2015\Projects\Bader_Baqar1\Bader_Baqar1\obj\Debug\Bader_Baqar1.pdb
